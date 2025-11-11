@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://www.amazon.com/sp?seller=AWKG3GL9X9XP2",
+        "seller_name": "J&L Prime Products",
+        "seller_ratings": "4.5 out of 5 stars",
+        "seller_reviews": "1234 reviews"
+    },
+    {
+        "url": "https://www.amazon.com/sp?seller=ABC123XYZ",
+        "seller_name": "Example Seller",
+        "seller_ratings": "4.0 out of 5 stars",
+        "seller_reviews": "567 reviews"
+    }
+]
