@@ -1,0 +1,5 @@
+{
+    "base_url": "https://www.amazon.com",
+    "max_retries": 3,
+    "timeout": 10
+}
