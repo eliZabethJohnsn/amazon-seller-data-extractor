@@ -1,0 +1,4 @@
+# Sample input file for Amazon Seller Data Extractor
+# Format: URL of the seller storefronts to be scraped, one per line
+https://www.amazon.com/sp?seller=AWKG3GL9X9XP2
+https://www.amazon.com/sp?seller=ABC123XYZ
